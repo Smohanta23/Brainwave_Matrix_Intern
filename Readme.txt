@@ -12,7 +12,7 @@ Follow these step-by-step instructions to successfully run the Library Managemen
 
 ### **2. Move the Project Folder**
 1. Locate the extracted `library` folder.
-2. Copy and paste the `library` folder into your server’s root directory:
+2. Copy and paste the `library` folder into your serverâ€™s root directory:
    - For **XAMPP**, place it in the `htdocs` folder (`C:/xampp/htdocs/`).
    - For **WAMP**, place it in the `www` folder (`C:/wamp/www/`).
 
