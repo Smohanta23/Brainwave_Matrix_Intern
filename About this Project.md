@@ -96,7 +96,8 @@ The Admin Dashboard allows the admin to manage books, students, and other system
 
 ### **5. Other Snapshots of Portal**
 
-<img height="180" width="361" alt="process" src="LMS_BMS_Images/SS4.png">
+<img height="180" width="341" alt="process" src="LMS_BMS_Images/SS4.png">
+<img height="180" width="341" alt="process" src="LMS_BMS_Images/SS5.png">
 
 
 
