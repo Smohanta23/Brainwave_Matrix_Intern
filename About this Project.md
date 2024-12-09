@@ -63,7 +63,7 @@ Here are some screenshots that showcase the various pages of the Library Managem
 
 ### **1. Home Page**
 
-![LMS Home Page](images/lms-home-page.png)
+![LMS Home Page](LMS_BMS_Images/SS1.png)
 
 The home page provides a user-friendly interface for easy navigation across the system.
 
