@@ -1,4 +1,4 @@
-### How to Set Up and Run the Library Management System Project
+# How to Set Up and Run the Library Management System Project
 
 Follow these step-by-step instructions to successfully run the Library Management System on your local machine:
 
