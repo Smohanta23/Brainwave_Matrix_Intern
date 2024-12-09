@@ -71,7 +71,8 @@ The home page provides a user-friendly interface for easy navigation across the 
 
 ### **2. Student Dashboard**
 
-![Student Dashboard](images/lms-user-dashboard.png)
+![Student Dashboard]
+<img height="500" width="600" alt="process" src="LMS_BMS_Images/SS2.png">
 
 After logging in, students are greeted with their dashboard where they can access all their features and view borrowed books.
 
