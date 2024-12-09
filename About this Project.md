@@ -71,8 +71,8 @@ The home page provides a user-friendly interface for easy navigation across the 
 
 ### **2. Student Dashboard**
 
-![Student Dashboard]
-<img height="500" width="860" alt="process" src="LMS_BMS_Images/SS2.png">
+![Student Dashboard](LMS_BMS_Images/SS2.png)
+
 
 After logging in, students are greeted with their dashboard where they can access all their features and view borrowed books.
 
@@ -80,7 +80,7 @@ After logging in, students are greeted with their dashboard where they can acces
 
 ### **3. Listed Books**
 
-![Listed Books](images/lms-listed-books.png)
+![Listed Books](LMS_BMS_Images/SS3.png)
 
 Students can browse the list of books available in the library and check out details such as titles, authors, and availability.
 
@@ -88,8 +88,15 @@ Students can browse the list of books available in the library and check out det
 
 ### **4. Admin Dashboard**
 
-![Admin Dashboard](images/lms-admin-dashboard.png)
+![Admin Dashboard](LMS_BMS_Images/SS8.png)
 
 The Admin Dashboard allows the admin to manage books, students, and other system resources efficiently.
 
 ---
+
+### **5. Other Snapshots of Portal**
+
+<img height="420" width="861" alt="process" src="LMS_BMS_Images/SS4.png">
+
+
+
