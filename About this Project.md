@@ -99,3 +99,5 @@ The Admin Dashboard allows the admin to manage books, students, and other system
 <img height="180" width="341" alt="Manage Registed Students" src="LMS_BMS_Images/SS9.png"> <img height="180" width="341" alt="Manage Issued Books" src="LMS_BMS_Images/SS10.png"> <img height="180" width="321" alt="Manage Books" src="LMS_BMS_Images/SS11.png">
 
 <img height="180" width="341" alt="Manage Categories" src="LMS_BMS_Images/SS12.png"> <img height="180" width="341" alt="Manage Authors" src="LMS_BMS_Images/SS13.png"> <img height="180" width="321" alt="User Change Password" src="LMS_BMS_Images/SS14.png">
+
+<img height="180" width="341" alt="SQL Database Creation" src="LMS_BMS_Images/SS15.png"> <img height="180" width="341" alt="SQL Table Creation" src="LMS_BMS_Images/SS16.png"> <img height="180" width="321" alt="PHPMyAdmin Server for Backend" src="LMS_BMS_Images/SS17.png">
